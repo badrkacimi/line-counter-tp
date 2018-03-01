@@ -1,10 +1,10 @@
-# Compter-nombre-de-lignes-de-code-
+# Compter-nombre-de-lignes-de-code
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
- // Author : BADR KACIMI
+# Author : BADR KACIMI
 // fichier.txt > D:\eclipse\workspace\projectName\fichier.txt to prevent FileNotFoundException
 
 public class CountLines2 {
